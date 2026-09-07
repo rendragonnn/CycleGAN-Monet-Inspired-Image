@@ -1,4 +1,3 @@
-```markdown
 # Monet-Inspired Image Generation with CycleGAN
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
@@ -219,4 +218,3 @@ This project provided practical experience with:
 - [Original CycleGAN Project](https://junyanz.github.io/CycleGAN/)
 - [Kaggle: I’m Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started)
 
-```
